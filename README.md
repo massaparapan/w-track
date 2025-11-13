@@ -1,3 +1,10 @@
 # WTrack (Weight Track)
 
-Simple and intuitive application to track your weight. Log your daily weight and gain better awareness of your progress over time.
+Una aplicación móvil simple y elegante para llevar un seguimiento diario de tu peso. Desarrollada con Vue.js, sin necesidad de login ni base de datos externa - todos los datos se guardan localmente en tu dispositivo.
+
+## Tecnologías
+
+- Vue.js 3
+- Vite
+- Chart.js
+- LocalStorage para persistencia
