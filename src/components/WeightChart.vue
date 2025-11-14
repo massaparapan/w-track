@@ -13,10 +13,9 @@ import {
   Title,
   Tooltip,
   Legend,
-  Filler
+  Filler,
+  LineController
 } from 'chart.js'
-import { Line } from 'vue-chartjs'
-
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -25,7 +24,8 @@ ChartJS.register(
   Title,
   Tooltip,
   Legend,
-  Filler
+  Filler,
+  LineController
 )
 
 export default {
