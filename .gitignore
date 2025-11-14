@@ -1,2 +1,6 @@
+# Vite/Vue files
+/dist
+/dev-dist
+
 # Node modules
 node_modules/
