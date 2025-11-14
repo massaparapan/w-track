@@ -19,11 +19,11 @@ export default defineConfig({
         background_color: '#0f172a',
         display: 'standalone',
         orientation: 'portrait',
-        scope: '/',
-        start_url: '/',
+        scope: '/w-track/',
+        start_url: '/w-track/',
         icons: [
           {
-            src: 'pwa-192x192.png',
+            src: 'assets/logo.png',
             sizes: '192x192',
             type: 'image/png'
           },
